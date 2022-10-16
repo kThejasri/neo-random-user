@@ -1,1 +1,1 @@
-link: https://dashboard.heroku.com/apps/generate-random-user/deploy/github
+link: https://generate-random-user.herokuapp.com/
